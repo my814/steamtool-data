@@ -1,14 +1,183 @@
-[
-    {
-        "AppId": "2001120",
-        "Name": "双影奇境",
-        "HeaderImage": "https://cdn.cloudflare.steamstatic.com/apps/2001120/header.jpg",
-        "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/2001120.lua"
-    },
-    {
-        "AppId": "1850570",
-        "Name": "死亡测试",
-        "HeaderImage": "https://cdn.cloudflare.steamstatic.com/apps/1850570/header.jpg",
-        "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/1850570.lua"
-    }
-]
+-- ==========================================
+-- B-I-A-O GitHub仓库源码整理合集
+-- ==========================================
+
+-- ------------------------------------------
+-- 1. 主游戏APPID: 1984270[cite: 1]
+-- ------------------------------------------
+addappid(1984270,0,"60f0f52f51592d35101a1678ff221736cee376b3a9db46229f5164dd95b70add")  -- 主游戏[cite: 1]
+
+-- depotsID[cite: 1]
+addappid(1984271,0,"b0aa8ddfef2996e3122b0bda1d02f7ceb28f608ac8c1d853e6793790aaab8860") --[cite: 1]
+addappid(3524240,0,"f06dc8a525a2fb5e03453da570b80915bd7c02daae714ac854c86283a2bc4e18") --[cite: 1]
+addappid(3524250,0,"b6c098c1cdd8687907373e2a6e59446445aafca92e10fe4da2c59481f0448f24") --[cite: 1]
+addappid(3524260,0,"0d0cb59fa779a35a600989d6bbbd8a43d4459245ff74f28b125e3089d2c59940") --[cite: 1]
+addappid(3524270,0,"efc19afeba78735ba1acc7264f8363b01d290e19fd5bbde3c9b6956d6dbbd750") --[cite: 1]
+addappid(3524290,0,"06a3cc7ad7dabf95f282c5ef83ac8eef78605e99999eadcf84aeb73ee22b6eee") --[cite: 1]
+addappid(3524300,0,"0ae80de6e7b2f3ec166de6a98b3f6a018af9fba6c54f144916d1f4ab07671b2c") --[cite: 1]
+addappid(3524310,0,"5f8a85a36740263fe78affe346fd7b0c18eb7ad2a51537a2c875f64fa080cbf1") --[cite: 1]
+addappid(3524320,0,"0da086161abea2f6ce0863a530fefc41ac12993fb4308ff16301926398803a27") --[cite: 1]
+addappid(3524330,0,"2358d5ff200cefb1eef6f77277f04089a01daaea4418cd48d530b4de3fe53f61") --[cite: 1]
+addappid(3524340,0,"5441f08ccf7ebad6314bac9d071ba47a41e709f4000e121004752959138bb2dc") --[cite: 1]
+addappid(3524350,0,"388eb5d2862631b327cd83e312bc69e3f14ecf6087a6a2ec0860f20df764139d") --[cite: 1]
+addappid(3524360,0,"9ac71aa654d8726aaf514236b138ac5c075854dd8f33abbfeb1b4316302c7f7b") --[cite: 1]
+addappid(3524370,0,"a20f41adefa6edd0b1a0644a6e359437cc9476624a4e80b6b31d90c893fb3577") --[cite: 1]
+addappid(3524380,0,"4ef7dc743aea30597adbffc2215a364e119c16ab160dc2f20ae358296d12f4bf") --[cite: 1]
+
+--无仓库DLC[cite: 1]
+addappid(3524390) --[cite: 1]
+addappid(3524400) --[cite: 1]
+addappid(4486910) --[cite: 1]
+
+
+-- ------------------------------------------
+-- 2. 主游戏APPID: 1426210[cite: 2]
+-- ------------------------------------------
+addappid(1426210)  -- 主游戏[cite: 2]
+
+-- depotsID[cite: 2]
+addappid(1426211,0,"c450c44e032e27d0308cf864259fb2af91bcfc58401a0caf33bb8efba85bb323") --[cite: 2]
+
+-- 文件缺少密钥[cite: 2]
+--缺少密钥 addappid(4110941)  -- 属于DLC 4110940[cite: 2]
+--缺少密钥 addappid(4110942)  -- 属于DLC 4110940[cite: 2]
+
+--无仓库DLC[cite: 2]
+addappid(1426390) --[cite: 2]
+
+
+-- ------------------------------------------
+-- 3. 主游戏APPID: 2001120[cite: 3]
+-- ------------------------------------------
+addappid(2001120)  -- 主游戏[cite: 3]
+
+-- depotsID[cite: 3]
+addappid(2001121,0,"27f6aac2ce9d80ad4ed8fe3710d306ae108f00ddcf005d47ecf7bfa2a258964c") --[cite: 3]
+
+-- 文件缺少密钥[cite: 3]
+--缺少密钥 addappid(4110951)  -- 属于DLC 4110950[cite: 3]
+--缺少密钥 addappid(4110952)  -- 属于DLC 4110950[cite: 3]
+
+-- 无仓库DLC[cite: 3]
+addappid(3050960) --[cite: 3]
+
+
+-- ------------------------------------------
+-- 4. 主游戏APPID: 1850570[cite: 4]
+-- ------------------------------------------
+addappid(1850570)  -- 主游戏[cite: 4]
+
+-- depotsID[cite: 4]
+addappid(1850571,0,"f0c67b235585f625ae33882c4547f9ef4404e96c5ad0a1fb4dbf43da61e04e24") --[cite: 4]
+addappid(1946740,0,"e01735660cdb310784cc00ba796a0b48c48605b9b94cf3e4d473b3a5ae97af32") --[cite: 4]
+
+
+-- ------------------------------------------
+-- 5. 主游戏APPID: 3280350[cite: 5]
+-- ------------------------------------------
+addappid(3280350,0,"914f5e9b7272a17fea869d253548261383245b5da4406b89fe63bea6fe6634e5")  -- 主游戏[cite: 5]
+
+-- depotsID[cite: 5]
+addappid(3280351,0,"adedba4e249ea03aa263769ddb3bccd36a54816bbe471c73c51c5b1569187d00") --[cite: 5]
+addappid(3280352,0,"4a43534f83813efc865429cc3edb56f45db455c86e8373827711e5c447f0d7e3") --[cite: 5]
+addappid(3280354,0,"7010c7c1c501ba95ec42f5545dcfc4ee462ca97e854e4c0c3eccb61cbaf26c84") --[cite: 5]
+addappid(3280355,0,"50cfe1f0f242308653ad05a8b8fe9584fa351541b3d791dc5aad88551f1c7d7e") --[cite: 5]
+addappid(3280356,0,"07766d818c98a30b9be759700331449b058d782e839b4aac64b95657b6c82874") --[cite: 5]
+addappid(3280357,0,"2a099de8b315d9bb7ad6ccd9589c278e59cbee17b5d6661c886a0d9c9ec84f86") --[cite: 5]
+addappid(3280358,0,"9c26057431edb93a11cad7a246c2b765391eaf18e38d1bd8a9c2a7433fc69aaf") --[cite: 5]
+addappid(3280359,0,"1da8c06ccf9373407642f3320f2150fc3fc35020faf8967c6a506e3d882ab34a") --[cite: 5]
+addappid(3669121,0,"b25594517feb73aa10cd13ffc9507e027aac8dd2fe4c451547f6b4401f74d318") --[cite: 5]
+addappid(3669122,0,"640832b483b5a8f5dac50d55e17ef9a31d9b5f58f29b6ea5c85a41a0dfb0342b") --[cite: 5]
+addappid(3669123,0,"a2aba5b5b71722e792d695f883c5d6b62ed57f286bc0b9d3b4f84578f1335076") --[cite: 5]
+addappid(3669124,0,"647404e49ca916a3796b7839067145587e75bcb75957e706a0979ae21dc25d0f") --[cite: 5]
+addappid(3669125,0,"33b649ba960e4412464f28b70beb09f3567216daaa0bbd08879019f78d945b1f") --[cite: 5]
+addappid(3669126,0,"b95d6ff8f985523cf9b2826e9eac6d66c0a794de6d064972b193fffc7ca538b7") --[cite: 5]
+
+-- 文件缺少密钥[cite: 5]
+--缺少密钥 addappid(3280353)[cite: 5]
+
+--无仓库DLC[cite: 5]
+addappid(3669120) --[cite: 5]
+addappid(3669170) --[cite: 5]
+addappid(4119250) --[cite: 5]
+
+
+-- ------------------------------------------
+-- 6. 主游戏APPID: 3117820[cite: 6]
+-- ------------------------------------------
+addappid(3117820,0,"5b953b3aff2ae34d4eee90a135eaee5a3e1377be9a5c4c6af9c218072aff7589")  -- 主游戏[cite: 6]
+
+-- depotsID[cite: 6]
+addappid(3117821,0,"6da5c61617ae1bce4dec442e070762a2b581103f5765d3067a24cc1276dd0461") --[cite: 6]
+addappid(3727361,0,"fe4bf4228a9aeb517395dbbdc999866b688d4445a3668330f0db6245dca98d9a") --[cite: 6]
+addappid(3727362,0,"aa9cebda6f2e145b31054c47dbdf9512d36f35e3d1d8d04af2075f4079e2d43b") --[cite: 6]
+addappid(3728320,0,"6efd49cc3608ae57bc6d0b2e1c1f790c0b6febd6bd548587d1314e7c1acf35ef") --[cite: 6]
+
+--自身有仓库且所有仓库都有密钥的DLC[cite: 6]
+addappid(3727360) --[cite: 6]
+addappid(3728320) --[cite: 6]
+
+
+-- ------------------------------------------
+-- 7. 主游戏APPID: 960990[cite: 7]
+-- ------------------------------------------
+addappid(960990,0,"919c9ea836dea792c56f38bc68c1f822db153751398fd4270d7ae8cab21a3010")  -- 主游戏[cite: 7]
+
+-- depotsID[cite: 7]
+addappid(960991,0,"120e868e509a7eb6f5fcf3924ff7726c5db98bceb8340ca8e16aa373acc0fe5c") --[cite: 7]
+addappid(960992,0,"dede946a447b25c049863aa0ced1b09195c52e5377a8022e12e4ca4509080ee9") --[cite: 7]
+addappid(960993,0,"7c073d979171b26c99ee683e9918c558408b6144231cea9341ed09789459bc7c") --[cite: 7]
+addappid(960994,0,"ee093b5e12f97397950fb7af50394e1d9c256868d2d1edd40a135205dd714167") --[cite: 7]
+addappid(960995,0,"f22b1bc4870e917078a956d1efd7dee80d92c9616e7dadc8b60e61a09464e4a9") --[cite: 7]
+addappid(960996,0,"d7e856a761b4c499a11e8a8fd695e938d4fd8be141360bfe5d0e6b2d1e6a2ce0") --[cite: 7]
+addappid(960997,0,"4e53411c0ef8214d273205bf92c70ef42bf786b70ccc1e1acfbf08ec2630b077") --[cite: 7]
+addappid(960998,0,"0366b83db473e8e4c0f960a151fe9391143ab7d224de1a894c7202e63be0c7d7") --[cite: 7]
+addappid(960999,0,"444f4fb2ad630406d92c7056bd7baa3fd5f5f882091f5778fdd64edd24108846") --[cite: 7]
+addappid(1296460,0,"fee8e4615e3d5423cc0c4fc5c12f32a79f6628f33a8ce09c2ac30cdd17a42bee") --[cite: 7]
+addappid(1296461,0,"8c77cedf0520e7617c3f00e3afbfa9c70a8afad20bb9c930539284bbf293b792") --[cite: 7]
+addappid(1296462,0,"61bbb2de2378b6c37fe505c51e5d7a578023b169cdc341961e8c166aebd92345") --[cite: 7]
+
+
+-- ------------------------------------------
+-- 8. 主游戏APPID: 1222140[cite: 8]
+-- ------------------------------------------
+addappid(1222140,0,"c86eb22d1ee19339760143055ce73a32b48e96f7dbd06d56db43b97a5fea5f30")  -- 主游戏[cite: 8]
+
+-- depotsID[cite: 8]
+addappid(1222141,0,"d87af32872df297ec519d0e79b6e0afc327b09048c3414622606b54efc46f519") --[cite: 8]
+
+
+-- ------------------------------------------
+-- 9. 主游戏APPID: 2001760[cite: 9]
+-- ------------------------------------------
+addappid(2001760) --[cite: 9]
+
+-- depotsID[cite: 9]
+addappid(2001761, 1, "0d843c3fd4bba4400b829693c665e6394ad8311f3f7f6c0acf31c71eab887c0c") --[cite: 9]
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- (windows)[cite: 9]
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- (windows)[cite: 9]
+
+
+-- ------------------------------------------
+-- 10. 主游戏APPID: 1245620[cite: 10]
+-- ------------------------------------------
+addappid(1245620,0,"10f99dee41d0f96e312cf8c574420de0a018b6a26caf4c3e3aefa13cf90c1246")  -- 主游戏[cite: 10]
+
+-- depotsID[cite: 10]
+addappid(1245621,0,"5f560fca048a138487e1e634a1e60693a7ad3ae7318c31731d147f16e093f10b") --[cite: 10]
+addappid(1245623,0,"b27090a72caa5f3cf2e1f41a81c4bc1c422a6ac277e1cd3a6f1ea68200288d4b") --[cite: 10]
+addappid(1245624,0,"e194ce5e5f83c427743781c1708c4bce6683d5d65521059f6e4ca64a8f36f3cd") --[cite: 10]
+addappid(1896300,0,"946e5c4e2c91a3ed363efc688218994f7fa6e8fdd56aa8b5752456d3b28e0543") --[cite: 10]
+addappid(1896320,0,"de7086b709fdfc7d151bfce5d07509fd80a6c318a21e8fb1e820db5b1cda5860") --[cite: 10]
+addappid(2778580,0,"9f1556645ea8ef43529f920cf02a2682a6da5756b29e630ba376a0cde24e3908") --[cite: 10]
+addappid(2855520,0,"476eca9191866d6743aa7ad82d4d7ce1fcd5e0f0613f2f4b6559635d68f8c0e3") --[cite: 10]
+
+--文件缺少密钥[cite: 10]
+--缺少密钥 addappid(1245622)[cite: 10]
+
+--无仓库DLC[cite: 10]
+addappid(1799420) --[cite: 10]
+addappid(1922350) --[cite: 10]
+addappid(2778590) --[cite: 10]
+addappid(2855530) --[cite: 10]
+addappid(3655690) --[cite: 10]
