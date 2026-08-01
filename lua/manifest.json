@@ -1,62 +1,14 @@
 [
-  {
-    "AppId": "2001120",
-    "Name": "双影奇境",
-    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/header.jpg",
-    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/2001120.lua"
-  },
-  {
-    "AppId": "1850570",
-    "Name": "死亡搁浅",
-    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/header.jpg",
-    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/1850570.lua"
-  },
-  {
-    "AppId": "3280350",
-    "Name": "死亡搁浅2",
-    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/3280350/header.jpg",
-    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/3280350.lua"
-  },
-  {
-    "AppId": "3117820",
-    "Name": "苏丹的游戏",
-    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/3117820/header.jpg",
-    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/3117820.lua"
-  },
-  {
-    "AppId": "949230",
-    "Name": "天际线2",
-    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg",
-    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/949230.lua"
-  },
-  {
-    "AppId": "1672970",
-    "Name": "我的世界地下城",
-    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1672970/header.jpg",
-    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/1672970.lua"
-  },
-  {
-    "AppId": "1144200",
-    "Name": "严阵以待",
-    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/header.jpg",
-    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/1144200.lua"
-  },
-  {
-    "AppId": "1876890",
-    "Name": "逸剑风云决",
-    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1876890/header.jpg",
-    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/1876890.lua"
-  },
-  {
-    "AppId": "2384580",
-    "Name": "真三国无双起源",
-    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/2384580/header.jpg",
-    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/2384580.lua"
-  },
-  {
-    "AppId": "814380",
-    "Name": "只狼",
-    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg",
-    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/814380.lua"
-  }
+    {
+        "AppId": "2001120",
+        "Name": "双影奇境",
+        "HeaderImage": "https://cdn.cloudflare.steamstatic.com/apps/2001120/header.jpg",
+        "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/2001120.lua"
+    },
+    {
+        "AppId": "1850570",
+        "Name": "死亡测试",
+        "HeaderImage": "https://cdn.cloudflare.steamstatic.com/apps/1850570/header.jpg",
+        "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/1850570.lua"
+    }
 ]
