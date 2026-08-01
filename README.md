@@ -1,1 +1,0 @@
-# steamtool-data
