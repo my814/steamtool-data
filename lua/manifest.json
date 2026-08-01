@@ -1,45 +1,62 @@
 [
   {
-    "appid": 2001120,
-    "name": "双影奇境"
+    "AppId": "2001120",
+    "Name": "双影奇境",
+    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/header.jpg",
+    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/2001120.lua"
   },
   {
-    "appid": 1850570,
-    "name": "死亡搁浅"
+    "AppId": "1850570",
+    "Name": "死亡搁浅",
+    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/header.jpg",
+    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/1850570.lua"
   },
   {
-    "appid": 3280350,
-    "name": "死亡搁浅2"
+    "AppId": "3280350",
+    "Name": "死亡搁浅2",
+    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/3280350/header.jpg",
+    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/3280350.lua"
   },
   {
-    "appid": 3117820,
-    "name": "苏丹的游戏"
+    "AppId": "3117820",
+    "Name": "苏丹的游戏",
+    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/3117820/header.jpg",
+    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/3117820.lua"
   },
   {
-    "appid": 949230,
-    "name": "天际线2"
+    "AppId": "949230",
+    "Name": "天际线2",
+    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg",
+    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/949230.lua"
   },
   {
-    "appid": 1672970,
-    "name": "我的世界地下城"
+    "AppId": "1672970",
+    "Name": "我的世界地下城",
+    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1672970/header.jpg",
+    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/1672970.lua"
   },
   {
-    "appid": 1144200,
-    "name": "严阵以待"
+    "AppId": "1144200",
+    "Name": "严阵以待",
+    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/header.jpg",
+    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/1144200.lua"
   },
   {
-    "appid": 1876890,
-    "name": "逸剑风云决"
+    "AppId": "1876890",
+    "Name": "逸剑风云决",
+    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1876890/header.jpg",
+    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/1876890.lua"
   },
   {
-    "appid": 2384580,
-    "name": "真三国无双起源"
+    "AppId": "2384580",
+    "Name": "真三国无双起源",
+    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/2384580/header.jpg",
+    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/2384580.lua"
   },
   {
-    "appid": 814380,
-    "name": "只狼"
-   },
-  {
-    "appid": 1551360,
-    "name": "地平线5"
+    "AppId": "814380",
+    "Name": "只狼",
+    "HeaderImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg",
+    "DownloadUrl": "https://raw.githubusercontent.com/my814/steamtool-data/main/lua/814380.lua"
+  }
 ]
